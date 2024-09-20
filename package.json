@@ -1,0 +1,22 @@
+{
+  "name": "mypwdgen",
+  "version": "0.0.1",
+  "description": "My password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekimmerst/my-pwd-gen.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "Eugen Kimmerstorfer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekimmerst/my-pwd-gen/issues"
+  },
+  "homepage": "https://github.com/ekimmerst/my-pwd-gen#readme"
+}
